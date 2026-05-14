@@ -1,5 +1,5 @@
 context:
-  version: "15.6.1"
+  version: "15.7.0"
 
 package:
   name: textlint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/textlint/-/textlint-${{ version }}.tgz
-  sha256: 92268f21a335647fa74665509bb05925a4cba6535042962d0050723e3ee1f2fd
+  sha256: 40395febe011d648c21d97767851d565a3839dca7e0d57c6f1e8f3531d8d0c32
 
 build:
   number: 0
